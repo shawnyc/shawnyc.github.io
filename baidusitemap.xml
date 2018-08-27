@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/2018/08/27/first-blog/</loc>
+    <lastmod>2018-08-27T12:13:18.018Z</lastmod>
+    <data>
+        <display>
+        <title>开篇</title>
+        <pubTime>2018-08-27T11:07:17.000Z</pubTime>
+        
+        <tag>心路历程</tag>
+         
+         
+           
+             
+              <breadCrumb title="感想" url="http://yoursite.com/categories/%E6%84%9F%E6%83%B3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2018/08/27/hello-world/</loc>
     <lastmod>2018-08-27T01:38:29.468Z</lastmod>
     <data>
